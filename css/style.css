@@ -1,0 +1,73 @@
+a:hover,
+a:focus {
+  color: blue;
+}
+
+.menu {
+  padding: 5px;
+  background-color: #fff;
+}
+
+h1 {
+  align-items: center;
+}
+
+.navbar-samuel {
+  background-color: rgba(1, 1, 1, 0.3);
+  -webkit-transition: all 0.35s;
+  -moz-transition: all 0.35s;
+  transition: all 0.35s;
+  text-align: center;
+  justify-content: space-between;
+}
+
+body {
+  background-color: dimgray;
+  background-image: url("/images/photo-1510915361894-db8b60106cb1.jpg");
+  background-size: auto 100%;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
+
+.activado {
+  color: blue;
+  background-color: transparent;
+}
+
+.button {
+  background-color: #fff; /* Green */
+  border: none;
+  color: dimgrey;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+h1 {
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1;
+  color: inherit;
+}
+
+.text-section {
+  position: relative;
+  text-align: center;
+}
+
+.introduction {
+  color: #fff;
+  background-color: rgba(1, 1, 1, 0.3);
+  padding: 70px 0;
+  position: relative;
+  text-align: center;
+}
+
+footer {
+  padding: 100px 0;
+  background-color: rgba(1, 1, 1, 0.8);
+  text-align: center;
+  color: #fff;
+}
